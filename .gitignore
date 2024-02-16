@@ -3,3 +3,4 @@ package-lock.json
 /dist
 playTicTacToe.ts
 tictactoe.ts
+.DS_Store
